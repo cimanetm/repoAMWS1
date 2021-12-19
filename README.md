@@ -1,4 +1,4 @@
 ## What the project does
-repositori de prova AMSW1
+repositori de prova AMWS1
 ## Who maintains and contributes to the project
 cimanetm@hotmail.com
